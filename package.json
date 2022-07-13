@@ -1,0 +1,23 @@
+{
+  "name": "ts-tdd",
+  "version": "1.0.0",
+  "description": "ts tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosmartin/ts-tdd.git"
+  },
+  "keywords": [
+    "ts",
+    "tdd"
+  ],
+  "author": "Martin Macharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosmartin/ts-tdd/issues"
+  },
+  "homepage": "https://github.com/mosmartin/ts-tdd#readme"
+}
